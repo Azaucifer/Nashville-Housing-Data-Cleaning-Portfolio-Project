@@ -1,21 +1,21 @@
-# Nashville Housing Data Cleaning SQL Project
+# 🏘 Nashville Housing Data Cleaning SQL Project
 
-## Overview
+## 📜 Overview
 
 Welcome to the Nashville Housing Data Cleaning SQL Project! This GitHub repository houses a comprehensive data cleaning project focused on a dataset containing information about housing properties in Nashville, Tennessee. The dataset encompasses various columns, including UniqueID, ParcelID, LandUse, PropertyAddress, SaleDate, SalePrice, LegalReference, SoldAsVacant, OwnerName, OwnerAddress, Acreage, TaxDistrict, LandValue, BuildingValue, TotalValue, YearBuilt, Bedrooms, FullBath, and HalfBath.
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Introduction](#introduction)
 - [Dataset Overview](#dataset-overview)
 - [Data Cleaning](#data-cleaning)
 - [Challenges](#challenges)
 
-## Introduction
+## 🚪 Introduction
 
 The Nashville housing market is a dynamic and evolving landscape. Effective data cleaning is an essential step in understanding market trends, property values, and investment opportunities. This project is dedicated to meticulously cleaning and preparing the Nashville housing dataset for further analysis, ensuring it is free from inconsistencies, missing values, and errors.
 
-## Dataset Overview
+## 🗂 Dataset Overview
 
 The dataset includes the following key columns:
 
@@ -39,7 +39,7 @@ The dataset includes the following key columns:
 - **FullBath:** The number of full bathrooms in each property.
 - **HalfBath:** The number of half bathrooms in each property.
 
-## Data Cleaning
+## 🛁 Data Cleaning
 
 The data cleaning process includes essential steps such as:
 
@@ -51,7 +51,7 @@ The data cleaning process includes essential steps such as:
 - Ensuring accuracy and consistency in sale dates.
 - Validating and cleaning numeric values such as sale prices, acreage, and assessed values.
 
-## Challenges
+## 🧗🏽‍♂️ Challenges
 
 Data cleaning can present numerous challenges, including managing a substantial volume of data, reconciling inconsistencies in data entry, and resolving discrepancies in property details. This project systematically tackles these challenges to ensure the dataset's quality and reliability.
 
